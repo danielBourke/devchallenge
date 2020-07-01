@@ -28,7 +28,7 @@ const PatientDetails = () => {
   };
   return (
     <>
-      <h1>Patient table</h1>
+      <h1 style={{marginLeft: "20px"}}>Patient table</h1>
       <div
         style={{
           display: "flex",
